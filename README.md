@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript
+- 🔭 [My Portfolio](https://relaxed-lamarr-72ab91.netlify.app)
+
+
 
 
 <!--
