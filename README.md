@@ -2,7 +2,7 @@
 
 🔭 [My Portfolio](https://relaxed-lamarr-72ab91.netlify.app)
 
-Like to work with 
+I like to work with 
 
 - HTML/CSS 
 - Javascript 
