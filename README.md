@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-- 🔭 [My Portfolio](https://relaxed-lamarr-72ab91.netlify.app)
+🔭 [My Portfolio](https://relaxed-lamarr-72ab91.netlify.app)
 
+Like to work with 
+
+- HTML/CSS 
+- Javascript 
+- Ruby 
+- Python 
+- Ruby on Rails  
 
 
 
