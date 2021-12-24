@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 [My Portfolio](https://relaxed-lamarr-72ab91.netlify.app)
-
 I like to work with 
 
 - HTML/CSS 
